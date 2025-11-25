@@ -1,7 +1,7 @@
 # 👋 ¡Hola! / Hi there! I'm Jovan Espinosa
 
-📊 Analista de Datos y Científico de Datos Junior en transición desde roles en BPO (businsess process operator), seguros, soporte de backoffice, atención al cliente, calidad y entrenamiento.  
-📊 Data Analyst and Junior Data Scientist transitioning from roles in BPO (businsess process operator), insurance, backoffice support, customer service, quality assurance, and training.
+📊 Científico de Datos Junior en transición desde roles en BPO (businsess process operator), seguros, soporte de backoffice, atención al cliente, calidad y entrenamiento.  
+📊 Junior Data Scientist transitioning from roles in BPO (businsess process operator), insurance, backoffice support, customer service, quality assurance, and training.
 
 🧠 Apasionado por descubrir patrones en los datos y construir soluciones con Machine Learning.  
 🧠 Passionate about discovering insights from data and building real-world ML solutions.
